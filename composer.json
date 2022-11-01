@@ -1,0 +1,17 @@
+{
+    "name": "amorim/curso-php",
+    "autoload": {
+        "psr-4": {
+            "Amorim\\CursoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joane",
+            "email": "joanealves2011@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
