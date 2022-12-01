@@ -5,3 +5,4 @@
         echo $names[$i] ;
     }
     // so vai executar se for verdadeiro
+    //teste//
